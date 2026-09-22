@@ -1,9 +1,6 @@
 # Hi, I'm Omurbek 👋
 
-Full-Stack Developer from Kyrgyzstan 🇰🇬
-
-I build web applications, business systems and APIs using
-Next.js, React, FastAPI and Firebase.
+Full-stack developer with 2.5 years of experience in web application development. I specialize in creating SPA interfaces and backend services, building APIs, and designing application architecture.
 
 ## About me
 
