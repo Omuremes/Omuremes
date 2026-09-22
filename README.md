@@ -15,25 +15,86 @@ Next.js, React, FastAPI and Firebase.
 
 ## Tech Stack
 
+### Core Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,fastapi,tailwind,postgres,firebase" />
+</p>
+
 ### Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+</p>
+
+- React Query
+- Responsive UI
+- Role-based interfaces
+- REST API integration
+- Firebase Authentication
 
 ### Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,java" />
+</p>
 
-### Tools
+- REST API development
+- WebSocket
+- Authentication and authorization
+- Role-based access control
+- Background tasks
+- File and image processing
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,firebase,supabase,gcp" />
+</p>
+
+- PostgreSQL
+- SQLite
+- Firestore
+- Firebase Storage
+- Supabase
+- Google Cloud Run
+- Render
+
+### DevOps & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,npm" />
+</p>
+
+- Docker and Docker Compose
+- Linux and Debian
+- Git and GitHub
+- Oracle VirtualBox
+- API testing
+- CI/CD basics
+
+### Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Classification and ensemble models
+- Exploratory data analysis
+
+### Mobile & Game Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,robloxstudio,lua" />
+</p>
+
+- Flutter and Dart
+- Roblox Studio
+- Luau
+- Game systems and progression design
 
 ## Featured Projects
 
@@ -68,8 +129,3 @@ and unlock new islands.
 
 [Repository](ССЫЛКА_НА_РЕПОЗИТОРИЙ)
 
-## Contact
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](ССЫЛКА)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](ССЫЛКА)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ТВОЯ_ПОЧТА)
